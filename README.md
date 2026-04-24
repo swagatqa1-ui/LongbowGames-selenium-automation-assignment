@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Automation Project
 
 ## Tech Stack
@@ -36,3 +37,7 @@ pytest tests/
 
 - pip install -r requirements.txt
 - pytest tests/
+=======
+# LongbowGames-selenium-automation-assignment
+Automated UI test suite using Python, Selenium, and Pytest implementing Page Object Model (POM). Covers login flow with validation checks on SauceDemo application.
+>>>>>>> 5a125fa609849b78eadd3c3049bfe1be57da7b46
